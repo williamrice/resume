@@ -1,0 +1,153 @@
+{
+  "basics": {
+    "name": "William Rice",
+    "label": "Programmer",
+    "image": "",
+    "email": "william.rice192@gmail.com",
+    "phone": "",
+    "url": "https://johndoe.com",
+    "summary": "A summary of John Doe…",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Stanton",
+      "countryCode": "US",
+      "region": "Kentucky"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "williamrice",
+        "url": "https://www.linkedin.com/in/realwilliamrice"
+      },
+      {
+        "network": "Github",
+        "username": "williamrice",
+        "url": "https://github.com/williamrice"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Stanton Police Department",
+      "position": "Detective Sergeant",
+      "url": "",
+      "startDate": "2016-11-01",
+      "summary": "Supervisor of the Criminal Investigation Divison for the City of Stanton. In addition to my supervisory role, I also investigate major crimes and act as a firearm instructor for the department.",
+      "highlights": ["Life Saving Commendation"]
+    },
+    {
+      "name": "Richmond Police Department",
+      "position": "Patrolman",
+      "url": "",
+      "startDate": "2016-05-01",
+      "endDate": "2016-11-01",
+      "summary": "Responded to emergency and non-emergency calls for service for the City of Richmond. Investigated crimes and apprehended suspects.",
+      "highlights": []
+    },
+    {
+      "name": "Clay City Police Department",
+      "position": "Sergeant",
+      "url": "",
+      "startDate": "2014-03-01",
+      "endDate": "2016-05-01",
+      "summary": "Shift supervisor for the Patrol Division of the Clay City Police Department. In addition to my supervisory duties, I responded to emergency and non-emergency calls for service.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Powell County Public Library Board of Trustees",
+      "position": "Vice-Chair",
+      "url": "",
+      "startDate": "2022-02-01",
+      "endDate": "",
+      "summary": "An active member and advocate for the Powell County Public Library where I make decisions on a board that oversees the public library.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bluegrass Community and Technical College",
+      "area": "Software Development",
+      "studyType": "Pursuing Associates in Applied Science",
+      "startDate": "2021-01-01",
+      "score": "4.0",
+      "courses": [
+        "CS115 - Intro to Computer Programming",
+        "CS215U - Intro to Program Design",
+        "CIT249 - Java II",
+        "CIT243 - C# II",
+        "CIT 170 Database Design Fundamentals"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Net+ Prep",
+      "date": "2022-05-08",
+      "issuer": "Bluegrass Community and Technical College"
+    },
+    {
+      "name": "A+ Prep",
+      "date": "2021-08-06",
+      "issuer": "Bluegrass Community and Technical College"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Advanced",
+      "keywords": ["HTML", "CSS", "JavaScript", "React"]
+    },
+    {
+      "name": "Programming",
+      "level": "Advanced",
+      "keywords": ["Java", "C#", "C++", "Lua"]
+    },
+    {
+      "name": "Version Control",
+      "level": "Advanced",
+      "keywords": ["Git", "GitHub", "Bitbucket"]
+    },
+    {
+      "name": "Project Tracking",
+      "level": "Advanced",
+      "keywords": ["Jira", "Trello", "GitHub"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project",
+      "description": "Description…",
+      "highlights": ["Won award at AIHacks 2016"],
+      "keywords": ["HTML"],
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "url": "https://project.com/",
+      "roles": ["Team Lead"],
+      "entity": "Entity",
+      "type": "application"
+    }
+  ]
+}
