@@ -104,7 +104,7 @@
     {
       "name": "Programming",
       "level": "Advanced",
-      "keywords": ["Java", "C#", "C++", "Lua"]
+      "keywords": ["Java", "Python", "C#", "C++", "Lua"]
     },
     {
       "name": "Version Control",
