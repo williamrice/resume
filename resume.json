@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "William Rice",
-    "label": "Programmer",
+    "label": "Software Developer",
     "image": "",
     "email": "william.rice192@gmail.com",
     "phone": "",
     "url": "https://johndoe.com",
-    "summary": "A summary of John Doe…",
+    "summary": "Currently seeking AAS, Programming - Software Development. Anticipated graduation in Fall 2022. Currently working as a full-time Police Detective, ready and confident to pursue my dream job as a software developer.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -61,7 +61,6 @@
       "position": "Vice-Chair",
       "url": "",
       "startDate": "2022-02-01",
-      "endDate": "",
       "summary": "An active member and advocate for the Powell County Public Library where I make decisions on a board that oversees the public library.",
       "highlights": []
     }
@@ -118,36 +117,23 @@
       "keywords": ["Jira", "Trello", "GitHub"]
     }
   ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
-    }
-  ],
+  "languages": [],
   "interests": [
     {
-      "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
+      "name": "Outdoors",
+      "keywords": ["Fishing", "Boating", "Exploration/Hiking"]
+    },
+    {
+      "name": "Creator",
+      "keywords": ["3d Print", "3d Modelling"]
+    },
+    {
+      "name": "Tech",
+      "keywords": ["Tech Books", "Home Automation", "Tech blogs/vlogs"]
     }
   ],
-  "references": [
-    {
-      "name": "Jane Doe",
-      "reference": "Reference…"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Project",
-      "description": "Description…",
-      "highlights": ["Won award at AIHacks 2016"],
-      "keywords": ["HTML"],
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "url": "https://project.com/",
-      "roles": ["Team Lead"],
-      "entity": "Entity",
-      "type": "application"
-    }
-  ]
+  "references": [],
+  "projects": [],
+
+  "meta": { "theme": "stackoverflow" }
 }
