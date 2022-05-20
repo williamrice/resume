@@ -2,10 +2,10 @@
   "basics": {
     "name": "William Rice",
     "label": "Software Developer",
-    "image": "",
+    "image": "https://github.com/williamrice/resume/blob/main/profile.jpg",
     "email": "william.rice192@gmail.com",
     "phone": "",
-    "url": "https://johndoe.com",
+    "url": "https://www.github.com/williamrice",
     "summary": "Currently seeking AAS, Programming - Software Development. Anticipated graduation in Fall 2022. Currently working as a full-time Police Detective, ready and confident to pursue my dream job as a software developer.",
     "location": {
       "address": "",
