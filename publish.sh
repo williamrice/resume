@@ -1,4 +1,4 @@
-#! /usr/bin/bash
+#! /bin/bash
 
 resume export resume.html --theme=stackoverflow
 
