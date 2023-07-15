@@ -6,7 +6,7 @@
     "email": "william.rice192@gmail.com",
     "phone": "",
     "url": "https://www.github.com/williamrice",
-    "summary": "Currently seeking AAS, Programming - Software Development from Bluegrass Community and Technical College. Anticipated graduation in Fall 2022. Currently working as a full-time Police Detective, ready and confident to pursue my dream job as a software developer.",
+    "summary": "AAS, Programming - Software Development from Bluegrass Community and Technical College. Currently working as a full-time Police Lieutenant, ready and confident to pursue my dream job as a software developer.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -30,7 +30,7 @@
   "work": [
     {
       "name": "Stanton Police Department",
-      "position": "Detective Sergeant",
+      "position": "Lieutenant",
       "url": "",
       "startDate": "2016-11-01",
       "summary": "Supervisor of the Criminal Investigation Divison for the City of Stanton. In addition to my supervisory role, I also investigate major crimes and act as a firearm instructor for the department.",
@@ -58,7 +58,7 @@
   "volunteer": [
     {
       "organization": "Powell County Public Library Board of Trustees",
-      "position": "Vice-Chair",
+      "position": "Chair",
       "url": "",
       "startDate": "2022-02-01",
       "summary": "An active member and advocate for the Powell County Public Library where I make decisions on a board that oversees the public library.",
@@ -69,7 +69,7 @@
     {
       "institution": "Bluegrass Community and Technical College",
       "area": "Software Development",
-      "studyType": "Pursuing Associates in Applied Science",
+      "studyType": "Associates in Applied Science",
       "startDate": "2021-01-01",
       "score": "4.0",
       "courses": [
@@ -77,7 +77,8 @@
         "CS215U - Intro to Program Design",
         "CIT249 - Java II",
         "CIT243 - C# II",
-        "CIT 170 Database Design Fundamentals"
+        "CIT 170 Database Design Fundamentals",
+        "CIT 253 - PHP Web Development"
       ]
     }
   ],
@@ -129,7 +130,7 @@
     {
       "name": "Web Development",
       "level": "Advanced",
-      "keywords": ["HTML", "CSS", "JavaScript", "React", "Express"]
+      "keywords": ["HTML", "CSS", "JavaScript", "React", "PHP"]
     },
     {
       "name": "Programming",
@@ -150,8 +151,8 @@
   "languages": [],
   "interests": [
     {
-      "name": "Outdoors",
-      "keywords": ["Fishing", "Boating", "Exploration/Hiking"]
+      "name": "Exerice",
+      "keywords": ["Working out", "Running", "Exploration/Hiking"]
     },
     {
       "name": "Creator",
