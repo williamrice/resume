@@ -29,6 +29,14 @@
   },
   "work": [
     {
+      "name": "Joker Business Solutions",
+      "position": "Web Developer (Part-Time)",
+      "url": "",
+      "startDate": "2023-03-09",
+      "summary": "Developed and maintained websites for clients in a wordpress environment. Wrote custom data analysis scripts in Python to analyze data from clients.",
+      "highlights": []
+    },
+    {
       "name": "Stanton Police Department",
       "position": "Lieutenant",
       "url": "",
@@ -43,15 +51,6 @@
       "startDate": "2016-05-01",
       "endDate": "2016-11-01",
       "summary": "Responded to emergency and non-emergency calls for service for the City of Richmond. Investigated crimes and apprehended suspects.",
-      "highlights": []
-    },
-    {
-      "name": "Clay City Police Department",
-      "position": "Sergeant",
-      "url": "",
-      "startDate": "2014-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Shift supervisor for the Patrol Division of the Clay City Police Department. In addition to my supervisory duties, I responded to emergency and non-emergency calls for service.",
       "highlights": []
     }
   ],
@@ -166,5 +165,5 @@
   "references": [],
   "projects": [],
 
-  "meta": { "theme": "stackoverflow" }
+  "meta": { "theme": "kendell" }
 }
