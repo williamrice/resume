@@ -130,7 +130,7 @@
     {
       "name": "Web Development",
       "level": "Advanced",
-      "keywords": ["HTML", "CSS", "JavaScript", "React", "PHP"]
+      "keywords": ["HTML", "CSS", "JavaScript", "Typescript", "React", "PHP"]
     },
     {
       "name": "Programming",
@@ -145,7 +145,7 @@
     {
       "name": "Project Tracking",
       "level": "Advanced",
-      "keywords": ["Jira", "Trello", "GitHub"]
+      "keywords": ["Jira", "Trello", "GitHub", "Asana"]
     }
   ],
   "languages": [],
