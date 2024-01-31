@@ -30,6 +30,7 @@
   "work": [
     {
       "name": "Joker Business Solutions",
+      "location": "Lexington, KY",
       "position": "Web Developer (Part-Time)",
       "url": "",
       "startDate": "2023-03-09",
@@ -37,15 +38,27 @@
       "highlights": []
     },
     {
+      "name": "Winchester Police Department",
+      "location": "Winchester, KY",
+      "position": "Patrolman",
+      "url": "",
+      "startDate": "2023-12-18",
+      "summary": "Respond to emergency and non-emergency calls for service for the City of Winchester. Investigates crimes and apprehend suspects",
+      "highlights": []
+    },
+    {
       "name": "Stanton Police Department",
+      "location": "Stanton, KY",
       "position": "Lieutenant",
       "url": "",
       "startDate": "2016-11-01",
-      "summary": "Supervisor of the Criminal Investigation Divison for the City of Stanton. In addition to my supervisory role, I also investigate major crimes and act as a firearm instructor for the department.",
+      "endDate": "2023-12-18",
+      "summary": "Supervisor of the Criminal Investigation Divison for the City of Stanton. In addition to my supervisory role, I also investigated major crimes and acted as a firearm instructor for the department.",
       "highlights": ["Life Saving Commendation"]
     },
     {
       "name": "Richmond Police Department",
+      "location": "Richmond, KY",
       "position": "Patrolman",
       "url": "",
       "startDate": "2016-05-01",
