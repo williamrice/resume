@@ -6,7 +6,7 @@
     "email": "william.rice192@gmail.com",
     "phone": "",
     "url": "https://www.github.com/williamrice",
-    "summary": "AAS, Programming - Software Development from Bluegrass Community and Technical College. Currently working as a full-time Police Officer and part-time web dev.",
+    "summary": "AAS, Programming - Software Development from Bluegrass Community and Technical College. Currently working as a full-time wordpress/PHP web developer.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -31,10 +31,10 @@
     {
       "name": "Joker Business Solutions",
       "location": "Lexington, KY",
-      "position": "Web Developer (Part-Time)",
+      "position": "Web Developer",
       "url": "",
       "startDate": "2023-03-09",
-      "summary": "Developed and maintained websites for clients in a wordpress environment. Wrote custom data analysis scripts in Python to analyze data from clients.",
+      "summary": "Developed and maintained websites for clients in a wordpress environment. Also manage backend services including database and hosting. Wrote custom PHP plugins to solve complex issues for clients",
       "highlights": []
     },
     {
